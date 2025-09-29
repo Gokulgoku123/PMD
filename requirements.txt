@@ -1,0 +1,5 @@
+# Required for HTTP requests
+requests==2.31.0
+
+# Optional Flask dependency if you expand to a server-based app
+Flask==2.3.5
